@@ -6,14 +6,18 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/shubham" title="LinkedIn Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/ShubhamChhatre7" title="GitHub Profile">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
-  <code><a href="mailto:shubhamchhatre20@gmail.com" title="Gmail">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"> Gmail</a></code>
-</h5>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham" title="LinkedIn" style="margin-right: 15px;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ShubhamChhatre7" title="GitHub" style="margin-right: 15px;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
+  </a>
+  <a href="mailto:shubhamchhatre20@gmail.com" title="Gmail" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Gmail"/>
+  </a>
+</p>
+
 
 <br>
 
